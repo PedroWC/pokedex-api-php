@@ -1,4 +1,4 @@
-# **Desafio Estágio Back-End - Lista de Pokémons**
+# **API PHP (Laravel) - Lista de Pokémons**
 
 Api simples para listagem de pokémons com as seguintes funcionalidades:
 
